@@ -6,7 +6,7 @@
 > 
 > 傻瓜都能写计算机能看懂的代码。好程序员写人能看懂的代码。——马丁·福勒
 
-* [在线阅读](https://guru99.apachecn.org)
+* [在线阅读](https://guru99.flygon.net)
 ## 下载
 
 ### Docker
